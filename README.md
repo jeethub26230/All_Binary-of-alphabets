@@ -1,6 +1,6 @@
 # Binary-of-all-alphabets
 
-## Letter	ASCII Code	   Binary	   Letter	  ASCII Code	  Binary
+### Letter	ASCII Code	   Binary	   Letter	  ASCII Code	  Binary
       a	      097    	  01100001	   A	        065	     01000001
       b	      098     	01100010	   B	        066	     01000010
       c	      099	      01100011	   C	        067	     01000011
